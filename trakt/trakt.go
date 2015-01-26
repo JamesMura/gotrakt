@@ -1,8 +1,6 @@
 package trakt
 
 import (
-	"bytes"
-	"encoding/json"
 	"fmt"
 	"net/http"
 )
